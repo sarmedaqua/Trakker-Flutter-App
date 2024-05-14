@@ -1,0 +1,136 @@
+{
+  "project_info": {
+    "project_number": "124649965868",
+    "firebase_url": "https://trakkerapp110.firebaseio.com",
+    "project_id": "trakkerapp110",
+    "storage_bucket": "trakkerapp110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124649965868:android:e5aba071b4a5ab2a",
+        "android_client_info": {
+          "package_name": "com.tpltrakker.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124649965868-1rqjbb3pqtvnk3nus3rpscbmne3martb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "9a24949fc35091bc159a5fd36b5e896d42125b1d"
+          }
+        },
+        {
+          "client_id": "124649965868-31k8rr4ipihq4rhuknenbgtid3a10ui3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "8e1ae75f3f4cea81a5d704ea581075ae021f4338"
+          }
+        },
+        {
+          "client_id": "124649965868-bckp32dvcoo1de0e7b70d5j5lmcomfsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "24b0e57db08ec7ce598fa0cbed091917e46792b9"
+          }
+        },
+        {
+          "client_id": "124649965868-c4u7l85hv5abkhvg26sane4p1df47kpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "ba20659e3ac031e9a2396600a4ee7ba377fb04c6"
+          }
+        },
+        {
+          "client_id": "124649965868-hgjgfsvu931l3jjtu7b75r2u2dgpre9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "43527330aedcc879664de7b7a070d89a803b7622"
+          }
+        },
+        {
+          "client_id": "124649965868-jgakvbfhrahofepj05tfk5n4qnpap56o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "42a34f4c4104da62b9d0cb4b5ec22d5920f60300"
+          }
+        },
+        {
+          "client_id": "124649965868-lt543a8jfegqlgpm76n4maco2rol7vgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "239db0628675c4b5f54e897ad78f029219e4225a"
+          }
+        },
+        {
+          "client_id": "124649965868-ncbpk0dl1rjleh77839osbbpofe7vb21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "dbb91542edbf21ecc6fe3aebed7b7237b4860ffa"
+          }
+        },
+        {
+          "client_id": "124649965868-q59oj3djvnls5k0clvgfqhas5icu8dd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "06715f822b7241416a7a6a2a297cbe7797b255d8"
+          }
+        },
+        {
+          "client_id": "124649965868-tj8ge6jl1akfpttopskrtc3av6fmn26i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "c1abb411ecb8e87a88c654c2be3d5e6f62d6cdb8"
+          }
+        },
+        {
+          "client_id": "124649965868-v1e2q5nd7os7ku88mmpfdcf1f2a2sg87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tpltrakker.main",
+            "certificate_hash": "8dec54f9e9a5f83a75611de57745a22fc22e7984"
+          }
+        },
+        {
+          "client_id": "124649965868-brn4biph9ii6fomiqvold7bqdfoi89ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxw8sW1DzKs_vISQn4Pi9HHF8Y0bMJQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124649965868-brn4biph9ii6fomiqvold7bqdfoi89ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124649965868-83r42sv66hhmqkr1632pgsptngkl5q0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trg.TPLTrakker",
+                "app_store_id": "646287839"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
