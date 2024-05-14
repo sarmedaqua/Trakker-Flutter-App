@@ -1,0 +1,11 @@
+default_platform(:android)
+desc "New Build to App Distribution Beta"
+  lane :distribute_uat do
+    sh("flutter build apk")
+    firebase_app_distribution(
+          app: "1:124649965868:android:e5aba071b4a5ab2a",
+          groups: "test",
+          release_notes: "Updates",
+          firebase_cli_path: "/usr/local/bin/firebase",
+          apk_path: "./build/app/outputs/flutter-apk/app-release.apk"    )
+  end
